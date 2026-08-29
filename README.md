@@ -47,6 +47,7 @@ The computer will randomly select its choice, and the program will determine the
 # 📂 Project Structure
 
 Rock-Paper-Scissors/
+
 │
 ├── rock_paper_scissors.py
 └── README.md
