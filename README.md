@@ -1,9 +1,8 @@
 # Rock-paper-scissor
-Rock Paper Scissors 🎮
 
 A simple and interactive Rock Paper Scissors game built to demonstrate basic programming concepts such as user input, conditional statements, randomization, and game logic.
 
-📌 Features
+# 📌 Features
 
 - 🎮 Interactive gameplay
 - 🤖 Play against the computer
@@ -12,12 +11,12 @@ A simple and interactive Rock Paper Scissors game built to demonstrate basic pro
 - 🔄 Option to play multiple rounds
 - 💻 Simple and beginner-friendly implementation
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 - Programming Language: Python
 - Concepts: Conditional Statements, Loops, Functions, Random Module, User Input
 
-🚀 How to Run
+# 🚀 How to Run
 
 1. Clone the repository:
    
@@ -31,7 +30,7 @@ A simple and interactive Rock Paper Scissors game built to demonstrate basic pro
    
    python rock_paper_scissors.py
 
-🎯 How to Play
+# 🎯 How to Play
 
 Choose one of the following options:
 
@@ -45,14 +44,14 @@ The computer will randomly select its choice, and the program will determine the
 - Scissors beats Paper
 - Paper beats Rock
 
-📂 Project Structure
+# 📂 Project Structure
 
 Rock-Paper-Scissors/
 │
 ├── rock_paper_scissors.py
 └── README.md
 
-🔮 Future Improvements
+# 🔮 Future Improvements
 
 - Add a graphical user interface (GUI)
 - Add score tracking
